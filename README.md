@@ -33,7 +33,5 @@ else:
 <img width="306" height="52" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/2218d892-886f-4c5a-ba85-0668406b4651" />
 
 
-
-
 # Result
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
