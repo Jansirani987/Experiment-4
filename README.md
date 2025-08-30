@@ -27,8 +27,12 @@ else:
 ```
 # Output
 
-<img width="323" height="72" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/36cdba29-a4c4-4e5d-ad00-6ec394e9c403"/>
-<img width="306" height="52" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/59e3afc7-8b0b-409d-b065-9a3bc1331439"/>
+<img width="323" height="72" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/c02d27b8-4c63-4293-9f7d-a5b8f7cc62ce" />
+
+
+<img width="306" height="52" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/2218d892-886f-4c5a-ba85-0668406b4651" />
+
+
 
 
 # Result
